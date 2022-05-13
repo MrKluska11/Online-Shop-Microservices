@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t842vtnB2rc72q4CdPqYEKd0VWSH8fuAwwyVKGSlObDR+U4Z6EojfwFcDZt7lWk4dN47AMxHvfsNqiV5Qche7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamil\\Desktop\\Kurs ASP NET Core\\tutorial z udemy 2\\MangoRestaurant\\Mango.Web1\\Mango.Web1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamil\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

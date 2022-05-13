@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kamil\\Desktop\\Kurs ASP NET Core\\tutorial z udemy 2\\MangoRestaurant\\Mango.Web1\\Mango.Web1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kamil\\Desktop\\Kurs ASP NET Core\\tutorial z udemy 2\\MangoRestaurant\\Mango.Web1\\Mango.Web1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kamil\\Desktop\\Kurs ASP NET Core\\tutorial z udemy 2\\MangoRestaurant\\Mango.Web1\\Mango.Web1.csproj",
+        "projectName": "Mango.Web1",
+        "projectPath": "C:\\Users\\Kamil\\Desktop\\Kurs ASP NET Core\\tutorial z udemy 2\\MangoRestaurant\\Mango.Web1\\Mango.Web1.csproj",
+        "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kamil\\Desktop\\Kurs ASP NET Core\\tutorial z udemy 2\\MangoRestaurant\\Mango.Web1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
