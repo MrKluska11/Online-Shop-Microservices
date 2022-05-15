@@ -25,7 +25,17 @@
       "ProjectGuid": "1008de01-b21c-4ab9-8ae0-68c9bd8abf2d",
       "DisplayName": "Mango.Web1",
       "ColorIndex": 3
+    },
+    "8befcdb9-368e-436e-ae3b-cc7da76ff8a8": {
+      "ProjectGuid": "8befcdb9-368e-436e-ae3b-cc7da76ff8a8",
+      "DisplayName": "Mango.Services.Identity",
+      "ColorIndex": 4
+    },
+    "84b22788-8d16-4f1b-8c23-041f3fdd99ca": {
+      "ProjectGuid": "84b22788-8d16-4f1b-8c23-041f3fdd99ca",
+      "DisplayName": "Mango.Services.ShoppingCartAPI",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

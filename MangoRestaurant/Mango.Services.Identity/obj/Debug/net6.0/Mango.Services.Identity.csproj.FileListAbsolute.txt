@@ -1,0 +1,8 @@
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Mango.Services.Identity.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Mango.Services.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Mango.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Mango.Services.Identity.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Mango.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Mango.Services.Identity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Mango.Services.Identity.RazorAssemblyInfo.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Mango.Services.Identity.RazorAssemblyInfo.cs
