@@ -9,8 +9,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddHttpClient<IProductService, ProductServices>();
+builder.Services.AddHttpClient<ICartService, CartService>();
+
 SD.ProductAPIBase = builder.Configuration["ServiceUrls:ProductAPI"];
-builder.Services.AddScoped<IProductService, ProductServices>();
+SD.ShoppingCartAPI = builder.Configuration["ServiceUrls:ShoppingCartAPI"];
+
+builder.Services.AddScoped<IProductService, ProductServices>(); 
+builder.Services.AddScoped<ICartService, CartService>();
 
 builder.Services.AddHttpClient(Options.DefaultName, c => {
 }).ConfigurePrimaryHttpMessageHandler(() => {

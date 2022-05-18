@@ -19,7 +19,7 @@ namespace Mango.Web1.Services
             return await this.SendAsync<T>(new ApiRequest() {
                 ApiType = SD.ApiType.POST,
                 Data = productDto,
-                Url = SD.ProductAPIBase + "api/products",
+                Url = SD.ProductAPIBase + "api/products/AddCart",
                 AccessToken = ""
             });
         }

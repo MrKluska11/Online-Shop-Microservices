@@ -113,7 +113,7 @@ namespace Mango.Services.ShoppingCartAPI.Repository
                 int totalCountOfCartItems = _dbContext.CartDetails
                     .Where(u => u.CartHeaderId == cartDetails.CartHeaderId).Count();
 
-                _dbContext.Remove(cartDetails);
+                _dbContext.CartDetails.Remove(cartDetails);
 
                 if (totalCountOfCartItems == 1)
                 {
