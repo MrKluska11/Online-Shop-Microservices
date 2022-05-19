@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache

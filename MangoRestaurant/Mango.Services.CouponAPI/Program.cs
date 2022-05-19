@@ -1,7 +1,5 @@
 using AutoMapper;
-using Mango.Services.ProdcutAPI;
-using Mango.Services.ShoppingCartAPI.DbContexts;
-using Mango.Services.ShoppingCartAPI.Repository;
+using Mango.Services.CouponAPI.DbContexts;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,15 +11,17 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-options.UseSqlServer("Server=KAMIL-KOMPUTER\\SQLEXPRESS;Database=MangoShoppingCart;Trusted_Connection=True;MultipleActiveResultSets=True;Encrypt=False;TrustServerCertificate=False;"
-));
+builder.Services.AddScoped<ApplicationDbContext>();
+
+builder.Services.AddDbContext<ApplicationDbContext>(options => {
+    options.UseSqlServer("Server=KAMIL-KOMPUTER\\SQLEXPRESS;Database=MangoShoppingCart;Trusted_Connection=True;MultipleActiveResultSets=True;Encrypt=False;TrustServerCertificate=False;");
+});
 
 IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
 builder.Services.AddSingleton(mapper);
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-//builder.Services.AddScoped<ICartRepository, CartRepository>();
+builder.Services.AddScoped<ICartRepository, CartRepository>();
 
 var app = builder.Build();
 
