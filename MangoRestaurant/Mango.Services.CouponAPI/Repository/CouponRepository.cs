@@ -17,7 +17,7 @@ namespace Mango.Services.CouponAPI.Repository
         }
         public async Task<CouponDto> GetCouponByCode(string couponCode)
         {
-            var couponFromDb = await _dbContext.Coupons.FirstOrDefault(u => u.CouponCode == couponCode);
+            var couponFromDb = _dbContext.Coupons.FirstOrDefault(u => u.CouponCode == couponCode);
             return _mapper.Map<CouponDto>(couponFromDb);
         }
     }

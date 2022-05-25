@@ -52,9 +52,23 @@ namespace Mango.Web1.Controllers
             return View();
         }
 
-        public async Task<IActionResult> Checkout()
+        [HttpPost]
+        public async Task<IActionResult> Checkout(CartDto cartDto)
         {
-            return View(await LoadCartDtoBasedOnLoggedInUser());
+            try
+            {
+                var response = await _cartService.Checkout<ResponseDto>(cartDto.CartHeader);
+                return RedirectToAction(nameof(Confirmation));
+            }
+            catch(Exception e)
+            {
+                return View(cartDto);
+            }
+        }
+
+        public async Task<IActionResult> Confirmation()
+        {
+            return View();
         }
 
 

@@ -77,3 +77,10 @@ C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mang
 C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\ref\Mango.Services.ShoppingCartAPI.dll
 C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\Mango.Services.ShoppingCartAPI.pdb
 C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\Mango.Services.ShoppingCartAPI.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Mango.MessageBus.dll
+C:\Users\Kamil\Desktop\Kurs ASP NET Core\tutorial z udemy 2\MangoRestaurant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Mango.MessageBus.pdb

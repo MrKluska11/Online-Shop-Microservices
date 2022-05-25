@@ -10,7 +10,7 @@ namespace Mango.Services.ProdcutAPI
         {
             var mappingConfig = new MapperConfiguration(config =>
             {
-                config.CreateMap<ProductDto, Product>();
+                config.CreateMap<Product, ProductDto>();
                 config.CreateMap<CartHeader, CartHeaderDto>();
                 config.CreateMap<CartDetails, CartDetailsDto>();
                 config.CreateMap<Cart, CartDto>();

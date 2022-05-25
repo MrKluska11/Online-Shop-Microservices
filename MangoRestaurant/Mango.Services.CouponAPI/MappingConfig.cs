@@ -1,4 +1,8 @@
-﻿namespace Mango.Services.CouponAPI
+﻿using AutoMapper;
+using Mango.Services.CouponAPI.Models;
+using Mango.Services.CouponAPI.Models.Dtos;
+
+namespace Mango.Services.CouponAPI
 {
     public class MappingConfig
     {
@@ -7,6 +11,8 @@
             var mappingConfig = new MapperConfiguration(config => {
                 config.CreateMap<CouponDto, Coupon>();
             });
+
+            return mappingConfig;
         }
     }
 }
